@@ -1,2 +1,2 @@
 # test
-this repository is only used for learning and testing 
+This repository is only used for learning and testing. 
